@@ -18,6 +18,7 @@ This a dockerized [Spree Commerce](https://spreecommerce.org) application templa
 #### Install required tools and dependencies:
 
   * [Docker](https://www.docker.com/community-edition#/download)
+  * [Docker Compose Plugin](https://docs.docker.com/compose/cli-command/)
 
 #### Run setup script
 
